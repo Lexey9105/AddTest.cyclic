@@ -15,8 +15,8 @@ public class Main {
         System.out.println();
     }
     public static void tack5() {
-        int a = 21;
-        int b = 34;
+        int a = 0;
+        int b = 01;
         System.out.print(" " + a + " ");
         System.out.print(" " + b + " ");
         for (int i = 0; i < 4; i++) {
